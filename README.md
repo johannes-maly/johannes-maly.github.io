@@ -1,8 +1,8 @@
-I am a PostDoc working on mathematics of data science and machine learning. My former research was focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent. <img style="float: right;width: 100%" src="Photo2_JohannesMaly.jpg">
+I am a PostDoc working on mathematics of data science and machine learning. My former research was focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent. <img style="float: right;width: 20%; padding-left: 2%" src="Photo2_JohannesMaly.jpg">
 
 <!--<div style="padding-right=2%"> </div> -->
 
-v5
+v6
 
 ## Contact
 
@@ -33,11 +33,11 @@ E-mail: maly(at)mathc(dot)rwth-aachen(dot)de
 ### Conference publications
 
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2020, *accepted to iTWIST'20 workshop*
-- S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *Robust One-bit Compressed Sensing With Manifold Data*, 2019, *[International Conference on Sampling Theory and Applications (SampTA)](https://sampta2019.sciencesconf.org/267528/document)*
+- S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *[Robust One-bit Compressed Sensing With Manifold Data](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *One-Bit Compressed Sensing by Convex Relaxation of the Hamming Distance*, 2019, *SPARS workshop*
 - Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularisation*, 2019, *SPARS workshop*
-- M. Fornasier, J. Maly and V. Naumova: *Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization*, 2017, *[NIPS workshop Optimization for Machine Learning, Long Beach](http://opt-ml.org/papers.html)*
-- S. Krause-Solberg and J. Maly: *A tractable approach for one-bit Compressed Sensing on manifolds*, 2017, *[International Conference on Sampling Theory and Applications (SampTA)](https://ieeexplore.ieee.org/document/8024465)*
+- M. Fornasier, J. Maly and V. Naumova: *[Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning, Long Beach*
+- S. Krause-Solberg and J. Maly: *[A tractable approach for one-bit Compressed Sensing on manifolds](https://ieeexplore.ieee.org/document/8024465)*, 2017, *International Conference on Sampling Theory and Applications (SampTA)*
 
 ### Theses
 
