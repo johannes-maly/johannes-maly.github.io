@@ -1,7 +1,7 @@
 
-<table style="border:none;">
+<table>
   <tr>
-    <td>
+    <td style="border:none;">
       I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
     </td>
     <td style="float: right;width: 60%;border:none">
@@ -12,7 +12,7 @@
 
 <!--<div style="padding-right=2%"> </div> -->
 
-v154
+v155
 
 ## Contact
 
@@ -26,6 +26,8 @@ E-mail: maly(at)mathc(dot)rwth-aachen(dot)de
 - 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM under supervision of Prof. Massimo Fornasier
 - 10/2013 - 09/2015: M.Sc. in mathematics at TUM
 - 05/2011 - 09/2013: B.Sc. in mathematics at TUM
+
+A more detailed CV may be found [here](CV.pdf).
 
 ## Publications
 
