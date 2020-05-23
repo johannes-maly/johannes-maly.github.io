@@ -1,10 +1,28 @@
-I am a PostDoc working on...
+I am a PostDoc working on mathematics of data science and machine learning. My former research was focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
 
 ## Short CV
 
-Some CV...
+- 02/2019 - now: PostDoc at the *[Chair for Mathematics of Data Processing](https://www.mathc.rwth-aachen.de/home/home)* at RWTH Aachen University
+- 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM under supervision of Prof. Massimo Fornasier
+- 10/2013 - 09/2015: M.Sc. in mathematics at TUM
+- 05/2011 - 09/2013: B.Sc. in mathematics at TUM
 
 ## Publications
+
+### Preprints
+
+- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2019, [arXiv preprint](https://arxiv.org/abs/1911.07816)
+- Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularization*, 2019, [arXiv preprint](https://arxiv.org/abs/1908.02503)
+- M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds*, 2018, [arXiv preprint](https://arxiv.org/abs/1807.06490)
+- M. Fornasier, J. Maly and V. Naumova: *Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements*, 2018, [arXiv preprint](https://arxiv.org/abs/1801.06240)
+
+### Journal publications
+
+- J. Maly and L. Palzer: *[Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2018, Information and Inference: A Journal of the IMA
+
+### Conference publications
+
+
 
 Some publication...
 
