@@ -1,3 +1,4 @@
+[Publication](#publ) and [CV](#cv)
 
 <table>
   <tr>
@@ -17,7 +18,7 @@ Current address: Pontdriesch 10, D-52062 Aachen
 
 E-mail: maly(at)mathc(dot)rwth-aachen(dot)de
 
-## Short CV
+## Short CV {#cv}
 
 - 02/2019 - now: PostDoc at the *[Chair for Mathematics of Data Processing](https://www.mathc.rwth-aachen.de/home/home)* at RWTH Aachen University
 - 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM under supervision of Prof. Massimo Fornasier
@@ -26,7 +27,7 @@ E-mail: maly(at)mathc(dot)rwth-aachen(dot)de
 
 A more detailed CV may be found [here](CV.pdf).
 
-## Publications
+## Publications {#publ}
 
 ### Preprints
 
