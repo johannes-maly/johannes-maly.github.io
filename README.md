@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-               <a style="font-color:#159957" href="#publ">Publications</a>
+               <a href="#publ"><h1>Publications<h1></a>
     </td>
   </tr>
 </table>
