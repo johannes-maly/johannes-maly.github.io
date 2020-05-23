@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td style="border-color:#159957>
+    <td>
                <a style="font-color:#159957" href="#publ">Publications</a>
     </td>
   </tr>
