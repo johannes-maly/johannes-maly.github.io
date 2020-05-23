@@ -1,10 +1,13 @@
-[Publication](#publ) and [CV](#cv) and [Contact](#cont)
-#159957
-
 <table>
   <tr>
-    <td>
-      <a href="#publ"><h1>Publications</h1></a>
+    <td style="border:none">
+      <a href="#cont"><h3>Contact</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#cv"><h3>CV</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#publ"><h3>Publications</h3></a>
     </td>
   </tr>
 </table>
