@@ -9,7 +9,7 @@ I am a PostDoc working on mathematics of data science and machine learning. My f
 
 <!--<div style="padding-right=2%"> </div> -->
 
-v10
+v11
 
 ## Contact
 
