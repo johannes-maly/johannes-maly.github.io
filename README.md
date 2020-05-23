@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>
-      <h1><a href="#publ">Publications</a></h1>
+      <a href="#publ"><h1>Publications</h1></a>
     </td>
   </tr>
 </table>
-v1
+v2
 <table>
   <tr>
     <td style="border:none;">
