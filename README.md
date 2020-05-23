@@ -1,4 +1,4 @@
-<img style="float: right;width: 20%" src="Photo2_JohannesMaly.jpg">
+<img style="float: right;width: 20%;padding left: 2%" src="Photo2_JohannesMaly.jpg">
 
 I am a PostDoc working on mathematics of data science and machine learning. My former research was focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
 
