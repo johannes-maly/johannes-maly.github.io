@@ -1,5 +1,3 @@
-[Publication](#publ) and [CV](#cv)
-
 <table>
   <tr>
     <td style="border:none;">
@@ -12,7 +10,7 @@
 </table>
 
 
-## Contact
+## Contact {#cont}
 
 Current address: Pontdriesch 10, D-52062 Aachen
 
