@@ -1,20 +1,18 @@
-<style>
-table, th, td {
-  border: none;
-}
-</style>
+
 <table style="border:none;">
-<td>
-I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
-</td>
-<td style="float: right;width: 60%;padding left: 2%">
-<img src="Photo2_JohannesMaly.jpg">
-</td>
+  <tr>
+    <td>
+      I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
+    </td>
+    <td style="float: right;width: 60%;border:none">
+      <img src="Photo2_JohannesMaly.jpg">
+    </td>
+  </tr>
 </table>
 
 <!--<div style="padding-right=2%"> </div> -->
 
-v153
+v154
 
 ## Contact
 
