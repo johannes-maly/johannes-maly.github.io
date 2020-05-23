@@ -2,7 +2,7 @@ I am a PostDoc working on mathematics of data science and machine learning. My f
 
 <!-- <img style="float: right;" src="Photo2_JohannesMaly.jpg">
 
-| I am text to the left  | ![Flowers](Photo2_JohannesMaly.jpg) |
+<!-- | I am text to the left  | ![Flowers](Photo2_JohannesMaly.jpg) |
 
 
 ## Contact
