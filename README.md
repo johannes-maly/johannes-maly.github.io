@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td style="border:none;">
-      I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
+      I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in the recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
@@ -62,13 +62,13 @@ A more detailed CV may be found [here](CV.pdf).
 - S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *[Robust One-bit Compressed Sensing With Manifold Data](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *One-Bit Compressed Sensing by Convex Relaxation of the Hamming Distance*, 2019, *SPARS workshop*
 - Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularisation*, 2019, *SPARS workshop*
-- M. Fornasier, J. Maly and V. Naumova: *[Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning, Long Beach*
+- M. Fornasier, J. Maly and V. Naumova: *[Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning*
 - S. Krause-Solberg and J. Maly: *[A tractable approach for one-bit Compressed Sensing on manifolds](https://ieeexplore.ieee.org/document/8024465)*, 2017, *International Conference on Sampling Theory and Applications (SampTA)*
 
 ### Theses
 
-- J. Maly: *[Recovery Algorithms for Quantized Compressed Sensing](https://mediatum.ub.tum.de/1471689)*, Phd thesis
-- J. Maly: *Weighted Energy-Dissipation Approximation for an Optimal Control Problem*, Master's thesis
+- J. Maly: *[Recovery Algorithms for Quantized Compressed Sensing](https://mediatum.ub.tum.de/1471689)*, 2019, Phd thesis
+- J. Maly: *Weighted Energy-Dissipation Approximation for an Optimal Control Problem*, 2015, Master's thesis
 
 
 <!--
