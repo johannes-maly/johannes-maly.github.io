@@ -9,6 +9,9 @@
     <td style="border:none">
       <a href="#publ"><h3>Publications</h3></a>
     </td>
+    <td style="border:none">
+      <a href="#code"><h3>Code</h3></a>
+    </td>
   </tr>
 </table>
 
@@ -70,6 +73,9 @@ A more detailed CV may be found [here](CV.pdf).
 - J. Maly: *[Recovery Algorithms for Quantized Compressed Sensing](https://mediatum.ub.tum.de/1471689)*, 2019, Phd thesis
 - J. Maly: *Weighted Energy-Dissipation Approximation for an Optimal Control Problem*, 2015, Master's thesis
 
+## Code
+
+- Supplementary material for *Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements*: [ATLAS-Toolbox](ATLAS_Toolbox.zip)
 
 <!--
 <!-- You can use the [editor on GitHub](https://github.com/johannes-maly/johannes-maly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
