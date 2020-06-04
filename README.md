@@ -76,7 +76,7 @@ A more detailed CV may be found [here](CV.pdf).
 ## Code
 
 - Supplementary material for *Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements*: [ATLAS-Toolbox](ATLAS_Toolbox.zip)
-- Supplementary material for *On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds*: [OMS-Toolbox](OMS.zip)
+- Supplementary material for *On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds*: [OMS-Toolbox](OMSpaperCODE.zip)
 
 <!--
 <!-- You can use the [editor on GitHub](https://github.com/johannes-maly/johannes-maly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
