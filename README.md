@@ -40,9 +40,9 @@ E-mail: maly(at)mathc(dot)rwth-aachen(dot)de
 ## Short CV {#cv}
 
 - 02/2019 - now: PostDoc at the *[Chair for Mathematics of Data Processing](https://www.mathc.rwth-aachen.de/home/home)* at RWTH Aachen University
-- 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM under supervision of Prof. Massimo Fornasier
-- 10/2013 - 09/2015: M.Sc. in mathematics at TUM
-- 05/2011 - 09/2013: B.Sc. in mathematics at TUM
+- 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM, Munich, under supervision of Prof. Massimo Fornasier
+- 10/2013 - 09/2015: M.Sc. in mathematics at TUM, Munich
+- 05/2011 - 09/2013: B.Sc. in mathematics at TUM, Munich
 
 A more detailed CV may be found [here](CV.pdf).
 
@@ -76,6 +76,7 @@ A more detailed CV may be found [here](CV.pdf).
 ## Code
 
 - Supplementary material for *Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements*: [ATLAS-Toolbox](ATLAS_Toolbox.zip)
+- Supplementary material for *On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds*: [OMS-Toolbox](OMS.zip)
 
 <!--
 <!-- You can use the [editor on GitHub](https://github.com/johannes-maly/johannes-maly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
