@@ -44,7 +44,7 @@ E-mail: maly(at)mathc(dot)rwth-aachen(dot)de
 - 10/2013 - 09/2015: M.Sc. in mathematics at TUM, Munich
 - 05/2011 - 09/2013: B.Sc. in mathematics at TUM, Munich
 
-A more detailed CV may be found [here](CV.pdf)(May 2020).
+A more detailed CV may be found [here](CV.pdf) (May 2020).
 
 ## Publications {#publ}
 
