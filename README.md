@@ -61,6 +61,7 @@ A more detailed CV may be found [here](CV.pdf) (May 2020).
 
 ### Conference publications
 
+- A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements*, 2020, *accepted to AMTA 2020*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2020, *accepted to iTWIST'20 workshop*
 - S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *[Robust One-bit Compressed Sensing With Manifold Data](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *One-Bit Compressed Sensing by Convex Relaxation of the Hamming Distance*, 2019, *SPARS workshop*
