@@ -51,7 +51,8 @@ A more detailed CV may be found [here](CV.pdf) (May 2020).
 ### Preprints
 
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2019, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
-- Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularization*, 2019, *[arXiv preprint](https://arxiv.org/abs/1908.02503)*
+- Z. Kereta, J. Maly, and V. Naumova: *Computational approaches to non-convex, sparsity-inducingmulti-penalty
+ regularization*, 2019, *[arXiv preprint](https://arxiv.org/abs/1908.02503)*
 - M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds*, 2018, *[arXiv preprint](https://arxiv.org/abs/1807.06490)*
 
 ### Journal publications
