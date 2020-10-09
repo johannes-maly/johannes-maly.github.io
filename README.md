@@ -52,10 +52,10 @@ A more detailed CV may be found [here](CV.pdf) (May 2020).
 
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2019, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
 - Z. Kereta, J. Maly, and V. Naumova: *Computational approaches to non-convex, sparsity-inducing multi-penalty regularization*, 2019, *[arXiv preprint](https://arxiv.org/abs/1908.02503)*
-- M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds*, 2018, *[arXiv preprint](https://arxiv.org/abs/1807.06490)*
 
 ### Journal publications
 
+- M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *[On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds](https://arxiv.org/abs/1807.06490)*, 2018, *to appear in Discrete and Computational Geometry*
 - M. Fornasier, J. Maly and V. Naumova: *[Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements](https://arxiv.org/abs/1801.06240)*, 2018, *to appear in Applied Mathematics and Computation*
 - J. Maly and L. Palzer: *[Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2018, *Information and Inference: A Journal of the IMA*
 
