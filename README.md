@@ -62,8 +62,9 @@ A more detailed CV may be found [here](CV.pdf) (May 2020).
 
 ### Conference publications
 
-- A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements*, 2020, *accepted to AMTA 2020*
-- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2020, *accepted to iTWIST'20 workshop*
+- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2020, *accepted in Proceedings in Applied and Mathematics and Mechanics --- PAMM 2020*
+- A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *[Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements](https://www.researchgate.net/publication/346020497_Polyhedral_Sampling_Structures_for_Phaseless_Spherical_Near-Field_Antenna_Measurements)*, 2020, *AMTA 2020*
+- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2020, *iTWIST'20*
 - S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *[Robust One-bit Compressed Sensing With Manifold Data](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *One-Bit Compressed Sensing by Convex Relaxation of the Hamming Distance*, 2019, *SPARS workshop*
 - Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularisation*, 2019, *SPARS workshop*
