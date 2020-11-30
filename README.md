@@ -51,6 +51,7 @@ A more detailed CV may be found [here](CV.pdf) (May 2020).
 
 ### Preprints
 
+- H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *Quantized Compressed Sensing by Rectified Linear Units*, 2019, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
 - Z. Kereta, J. Maly, and V. Naumova: *Computational approaches to non-convex, sparsity-inducing multi-penalty regularization*, 2019, *[arXiv preprint](https://arxiv.org/abs/1908.02503)*
 
