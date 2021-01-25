@@ -63,7 +63,7 @@ A more detailed CV may be found [here](CV.pdf) (May 2020).
 
 ### Conference publications
 
-- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2020, *accepted in Proceedings in Applied and Mathematics and Mechanics --- PAMM 2020*
+- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *["Quantized Compressed Sensing by Rectified Linear Units"](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202000015)*, 2021, *Proceedings in Applied Mathematics and Mechanics --- PAMM 2021*
 - A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *["Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements"](https://www.researchgate.net/publication/346020497_Polyhedral_Sampling_Structures_for_Phaseless_Spherical_Near-Field_Antenna_Measurements)*, 2020, *42nd Antenna Measurement Techniques Association Symposium (AMTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2020, *iTWIST'20*
 - S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *["Robust One-bit Compressed Sensing With Manifold Data"](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
