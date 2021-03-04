@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td style="border:none;">
-       Welcome to my page! <br><br>
+      <b>Welcome to my page!</b> <br><br>
       I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization on signal reconstruction. <br>
       I am currently interested in the recovery of multi-structured signals, (quantized) covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent.
     </td>
