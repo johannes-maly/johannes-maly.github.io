@@ -7,6 +7,9 @@
       <a href="#cv"><h3>CV</h3></a>
     </td>
     <td style="border:none">
+      <a href="#teach"><h3>Teaching</h3></a>
+    </td>
+    <td style="border:none">
       <a href="#publ"><h3>Publications</h3></a>
     </td>
     <td style="border:none">
@@ -22,7 +25,9 @@
 <table>
   <tr>
     <td style="border:none;">
-      I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization. I am currently interested in the recovery of multi-structured signals, covariance estimation, and the implicit bias of gradient descent.
+       Welcome to my page! <br><br>
+      I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization on signal reconstruction. <br>
+      I am currently interested in the recovery of multi-structured signals, (quantized) covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent.
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
@@ -47,12 +52,20 @@ E-mail: johannes(dot)maly(at)ku(dot)de
 
 A more detailed CV may be found [here](CV.pdf) (May 2020).
 
+## Teaching {#teach}
+
+- 11/2020 - 03/2021: "Introduction to Numerical Analysis" (Lecture+Exercises), KU, Eichstaett/Ingolstadt
+- 04/2020 - 09/2020: Teaching assistant for "Optimization", RWTH, Aachen
+- 10/2019 - 03/2020: Teaching assistant for "Repetitorium - Higher Mathematics II", RWTH, Aachen
+- 04/2019 - 09/2019: Teaching assistant for "Higher Mathematics II", RWTH, Aachen
+- 04/2018 - 09/2018: Teaching assistant for "Foundations of Data Analysis", TUM, Munich
+
 ## Publications {#publ}
 
 ### Preprints
 
 - F. Boßmann, S. Krause-Solberg, J. Maly, N. Sissouno: *"Structural Sparsity in Multiple Measurements"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.01908)*
-- A. Caragea, D.G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *"Quantitative approximation results for complex-valued neural networks"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2102.13092)*
+- A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *"Quantitative approximation results for complex-valued neural networks"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2102.13092)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2019, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
 
