@@ -44,7 +44,7 @@ E-mail: johannes(dot)maly(at)ku(dot)de
 
 ## Short CV {#cv}
 
-- 11/2020 - now: PostDoc (akademischer Rat auf Zeit) at the *[Department of Scientific Computing](https://www.ku.de/en/mgf/mathematics/scientific-computing)* at Catholic University of Eichstätt-Ingolstadt
+- 11/2020 - now: PostDoc (akademischer Rat auf Zeit) at the *[Department of Scientific Computing](https://www.ku.de/en/mgf/mathematics/scientific-computing)* at Catholic University of Eichstaett-Ingolstadt
 - 02/2019 - 10/2020: PostDoc at the *[Chair for Mathematics of Data Processing](https://www.mathc.rwth-aachen.de/home/home)* at RWTH Aachen University
 - 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM, Munich, under supervision of Prof. Massimo Fornasier
 - 10/2013 - 09/2015: M.Sc. in mathematics at TUM, Munich
