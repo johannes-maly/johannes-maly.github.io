@@ -27,7 +27,7 @@
     <td style="border:none;">
       <b>Welcome to my page!</b> <br><br>
       I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization on signal reconstruction. <br>
-      I am currently interested in the recovery of multi-structured signals, (quantized) covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent.
+      I am currently interested in the recovery of multi-structured signals, covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent.
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
@@ -64,6 +64,7 @@ A more detailed CV may be found [here](CV.pdf) (March 2021).
 
 ### Preprints
 
+- J. Maly: *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.05523)*
 - F. Boßmann, S. Krause-Solberg, J. Maly, N. Sissouno: *"Structural Sparsity in Multiple Measurements"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.01908)*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *"Quantitative approximation results for complex-valued neural networks"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2102.13092)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
@@ -94,8 +95,9 @@ A more detailed CV may be found [here](CV.pdf) (March 2021).
 
 ## Code
 
-- Supplementary material for *"Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"*: [ATLAS-Toolbox](ATLAS_Toolbox.zip)
-- Supplementary material for *"On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"*: [OMS-Toolbox](OMSpaperCODE.zip)
+- [Supplementary material](S3-PCA-Toolbox.zip) for *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*
+- [Supplementary material](ATLAS_Toolbox.zip) for *"Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"*
+- [Supplementary material](OMSpaperCODE.zip) for *"On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"*
 
 <!--
 <!-- You can use the [editor on GitHub](https://github.com/johannes-maly/johannes-maly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
