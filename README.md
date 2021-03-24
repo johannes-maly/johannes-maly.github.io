@@ -71,7 +71,7 @@ A more detailed CV may be found [here](CV.pdf) (March 2021).
 
 ### Journal publications
 
-- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2019, *to appear in IEEE Transactions on Information Theory*, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
+- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2019, *to appear in IEEE Transactions on Information Theory*, *([arXiv](https://arxiv.org/abs/1911.07816))*
 - Z. Kereta, J. Maly, and V. Naumova: *"Computational approaches to non-convex, sparsity-inducing multi-penalty regularization"*, 2019, *to appear in Inverse Problems*, *([arXiv](https://arxiv.org/abs/1908.02503))*
 - M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *"On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"*, 2018, *to appear in Discrete and Computational Geometry*, *([arXiv](https://arxiv.org/abs/1807.06490))*
 - M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"](https://authors.elsevier.com/a/1btjM_2C8gesk-)*, 2020, *Applied Mathematics and Computation*, *([arXiv](https://arxiv.org/abs/1801.06240))*
