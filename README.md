@@ -68,10 +68,10 @@ A more detailed CV may be found [here](CV.pdf) (March 2021).
 - F. Boßmann, S. Krause-Solberg, J. Maly, N. Sissouno: *"Structural Sparsity in Multiple Measurements"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.01908)*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *"Quantitative approximation results for complex-valued neural networks"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2102.13092)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
-- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2019, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
 
 ### Journal publications
 
+- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2019, *to appear in IEEE Transactions on Information Theory*, *[arXiv preprint](https://arxiv.org/abs/1911.07816)*
 - Z. Kereta, J. Maly, and V. Naumova: *"Computational approaches to non-convex, sparsity-inducing multi-penalty regularization"*, 2019, *to appear in Inverse Problems*, *([arXiv](https://arxiv.org/abs/1908.02503))*
 - M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *"On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"*, 2018, *to appear in Discrete and Computational Geometry*, *([arXiv](https://arxiv.org/abs/1807.06490))*
 - M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"](https://authors.elsevier.com/a/1btjM_2C8gesk-)*, 2020, *Applied Mathematics and Computation*, *([arXiv](https://arxiv.org/abs/1801.06240))*
