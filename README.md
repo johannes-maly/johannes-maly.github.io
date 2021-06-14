@@ -78,6 +78,10 @@ A more detailed CV may be found [here](CV.pdf) (May 2021).
 - M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"](https://authors.elsevier.com/a/1btjM_2C8gesk-)*, 2020, *Applied Mathematics and Computation*, *([arXiv](https://arxiv.org/abs/1801.06240))*
 - J. Maly and L. Palzer: *["Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2019, *Information and Inference: A Journal of the IMA*, *([arXiv](https://arxiv.org/abs/1805.03486))*
 
+### Book chapters
+
+- J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2106.06190)*
+
 ### Conference publications
 
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *["Quantized Compressed Sensing by Rectified Linear Units"](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202000015)*, 2021, *Proceedings in Applied Mathematics and Mechanics --- PAMM 2021*
