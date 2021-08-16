@@ -43,7 +43,7 @@ Current address: Ostenstraße 26, D-85072 Eichstätt
 
 E-mail: johannes(dot)maly(at)ku(dot)de
 
-<br>
+<br><br>
 
 ## Short CV {#cv}
 
@@ -73,6 +73,8 @@ A more detailed CV may be found [here](CV.pdf) (May 2021).
 ### Technical University of Munich
 
 - 04/2018 - 09/2018: Teaching assistant for "Foundations of Data Analysis"
+
+<br><br>
 
 ## Publications {#publ}
 
@@ -111,6 +113,8 @@ A more detailed CV may be found [here](CV.pdf) (May 2021).
 
 - J. Maly: *["Recovery Algorithms for Quantized Compressed Sensing"](https://mediatum.ub.tum.de/1471689)*, 2019, Phd thesis
 - J. Maly: *"Weighted Energy-Dissipation Approximation for an Optimal Control Problem"*, 2015, Master's thesis
+
+<br><br>
 
 ## Code
 
