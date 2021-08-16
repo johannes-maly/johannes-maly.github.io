@@ -42,6 +42,8 @@ Current address: Ostenstraße 26, D-85072 Eichstätt
 
 E-mail: johannes(dot)maly(at)ku(dot)de
 
+<br>
+
 ## Short CV {#cv}
 
 - 11/2020 - now: PostDoc (akademischer Rat auf Zeit) at the *[Department of Scientific Computing](https://www.ku.de/en/mgf/mathematics/scientific-computing)* at Catholic University of Eichstaett-Ingolstadt
