@@ -35,6 +35,7 @@
   </tr>
 </table>
 
+<br>
 
 ## Contact {#cont}
 
@@ -53,6 +54,8 @@ E-mail: johannes(dot)maly(at)ku(dot)de
 - 05/2011 - 09/2013: B.Sc. in mathematics at TUM, Munich
 
 A more detailed CV may be found [here](CV.pdf) (May 2021).
+
+<br><br>
 
 ## Teaching {#teach}
 
