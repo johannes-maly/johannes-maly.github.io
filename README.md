@@ -54,11 +54,20 @@ A more detailed CV may be found [here](CV.pdf) (May 2021).
 
 ## Teaching {#teach}
 
-- 11/2020 - 03/2021: "Introduction to Numerical Analysis" (Lecture+Exercises), KU, Eichstaett/Ingolstadt
-- 04/2020 - 09/2020: Teaching assistant for "Optimization", RWTH, Aachen
-- 10/2019 - 03/2020: Teaching assistant for "Repetitorium - Higher Mathematics II", RWTH, Aachen
-- 04/2019 - 09/2019: Teaching assistant for "Higher Mathematics II", RWTH, Aachen
-- 04/2018 - 09/2018: Teaching assistant for "Foundations of Data Analysis", TUM, Munich
+### Catholic University of Eichstaett/Ingolstadt
+
+- 04/2021 - 09/2021: "Introduction to Scientific Computing" (Lecture+Exercises)
+- 11/2020 - 03/2021: "Introduction to Numerical Analysis" (Lecture+Exercises)
+
+### RWTH Aachen University
+
+- 04/2020 - 09/2020: Teaching assistant for "Optimization"
+- 10/2019 - 03/2020: Teaching assistant for "Repetitorium - Higher Mathematics II"
+- 04/2019 - 09/2019: Teaching assistant for "Higher Mathematics II"
+
+### Technical University of Munich
+
+- 04/2018 - 09/2018: Teaching assistant for "Foundations of Data Analysis"
 
 ## Publications {#publ}
 
