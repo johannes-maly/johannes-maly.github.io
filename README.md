@@ -61,6 +61,7 @@ A more detailed CV may be found [here](CV.pdf) (May 2021).
 
 ### Catholic University of Eichstaett/Ingolstadt
 
+- 10/2021 - 03/2022: "Mathematics for Economics" (Lecture)
 - 04/2021 - 09/2021: "Introduction to Scientific Computing" (Lecture+Exercises)
 - 11/2020 - 03/2021: "Introduction to Numerical Analysis" (Lecture+Exercises)
 
