@@ -83,11 +83,11 @@ A more detailed CV may be found [here](CV.pdf) (November 2021).
 
 - S. Dirksen, J. Maly, and H. Rauhut: *"Covariance estimation under one-bit quantization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2104.01280)*
 - J. Maly: *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.05523)*
-- F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *"Structural Sparsity in Multiple Measurements"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.01908)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
 
 ### Journal publications
 
+- F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *"Structural Sparsity in Multiple Measurements"*, 2021, *to appear in IEEE Transactions on Signal Processing*, *[arXiv preprint](https://arxiv.org/abs/2103.01908)*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *"Quantitative approximation results for complex-valued neural networks"*, 2021, *to appear in SIAM Journal on Mathematics of Data Science (SIMODS)*, *[arXiv preprint](https://arxiv.org/abs/2102.13092)*
 - Z. Kereta, J. Maly, and V. Naumova: *["Computational approaches to non-convex, sparsity-inducing multi-penalty regularization"](https://iopscience.iop.org/article/10.1088/1361-6420/abdd46)*, 2021, *Inverse Problems*, *([arXiv](https://arxiv.org/abs/1908.02503))*
 - M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *["On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"](https://link.springer.com/article/10.1007/s00454-020-00267-z)*, 2021, *Discrete and Computational Geometry*, *([arXiv](https://arxiv.org/abs/1807.06490))*
