@@ -81,7 +81,7 @@ A more detailed CV may be found [here](CV.pdf) (November 2021).
 
 ### Preprints
 
-- H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
+- H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
 - S. Dirksen, J. Maly, and H. Rauhut: *"Covariance estimation under one-bit quantization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2104.01280)*
 - J. Maly: *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.05523)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
