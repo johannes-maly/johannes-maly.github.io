@@ -88,8 +88,8 @@ A more detailed CV may be found [here](CV.pdf) (November 2021).
 
 ### Journal publications
 
-- F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *["Structural Sparsity in Multiple Measurements"](https://ieeexplore.ieee.org/document/9661310)*, 2021, *IEEE Transactions on Signal Processing*, *([arXiv](https://arxiv.org/abs/2103.01908))*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *"Quantitative approximation results for complex-valued neural networks"*, 2021, *to appear in SIAM Journal on Mathematics of Data Science (SIMODS)*, *[arXiv preprint](https://arxiv.org/abs/2102.13092)*
+- F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *["Structural Sparsity in Multiple Measurements"](https://ieeexplore.ieee.org/document/9661310)*, 2021, *IEEE Transactions on Signal Processing*, *([arXiv](https://arxiv.org/abs/2103.01908))*
 - Z. Kereta, J. Maly, and V. Naumova: *["Computational approaches to non-convex, sparsity-inducing multi-penalty regularization"](https://iopscience.iop.org/article/10.1088/1361-6420/abdd46)*, 2021, *Inverse Problems*, *([arXiv](https://arxiv.org/abs/1908.02503))*
 - M. Iwen, F. Krahmer, S. Krause-Solberg, and J. Maly: *["On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"](https://link.springer.com/article/10.1007/s00454-020-00267-z)*, 2021, *Discrete and Computational Geometry*, *([arXiv](https://arxiv.org/abs/1807.06490))*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *["Quantized Compressed Sensing by Rectified Linear Units"](https://ieeexplore.ieee.org/document/9393953)*, 2021, *IEEE Transactions on Information Theory*, *([arXiv](https://arxiv.org/abs/1911.07816))*
