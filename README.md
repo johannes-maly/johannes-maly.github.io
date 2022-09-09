@@ -82,6 +82,7 @@ A more detailed CV may be found [here](CV.pdf) (November 2021).
 
 ### Preprints
 
+- J. Maly and R. Saab: *"A simple approach for quantizing neural networks"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2209.03487)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
 - H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
 - S. Dirksen, J. Maly, and H. Rauhut: *"Covariance estimation under one-bit quantization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2104.01280)*
