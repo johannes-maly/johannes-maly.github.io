@@ -39,9 +39,9 @@
 
 ## Contact {#cont}
 
-Current address: Ostenstraße 26, D-85072 Eichstätt
+Current address: Mathematisches Institut der Universität München, Theresienstr. 39, D-80333 München
 
-E-mail: johannes(dot)maly(at)ku(dot)de
+E-mail: maly(at)math(dot)lmu(dot)de
 
 <br>
 
