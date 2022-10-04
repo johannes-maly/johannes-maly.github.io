@@ -26,7 +26,7 @@
   <tr>
     <td style="border:none;">
       <b>Welcome to my page!</b> <br><br>
-      I am a PostDoc working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization on signal reconstruction. <br>
+      I am an assistant professor working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization on signal reconstruction. <br>
       I am currently interested in the recovery of multi-structured signals, covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent (and particularly in understanding the influence of coarse quantization).
     </td>
     <td style="float: right;width: 60%;border:none">
@@ -47,7 +47,8 @@ E-mail: johannes(dot)maly(at)ku(dot)de
 
 ## Short CV {#cv}
 
-- 11/2020 - now: PostDoc (akademischer Rat auf Zeit) at the *[Department of Scientific Computing](https://www.ku.de/en/mgf/mathematics/scientific-computing)* at Catholic University of Eichstaett-Ingolstadt
+- 10/2022 - now: Assistant professor for "Mathematical Data Science" at the chair of *[Mathematical Data Science and Artificial Intelligence](https://www.mathematik.uni-muenchen.de/forschung/arbeitsgruppen/ki/index.html)* at LMU, Munich
+- 11/2020 - 09/2022: PostDoc (akademischer Rat auf Zeit) at the *[Department of Scientific Computing](https://www.ku.de/en/mgf/mathematics/scientific-computing)* at Catholic University of Eichstaett-Ingolstadt
 - 02/2019 - 10/2020: PostDoc at the *[Chair for Mathematics of Data Processing](https://www.mathc.rwth-aachen.de/home/home)* at RWTH Aachen University
 - 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM, Munich, under supervision of Prof. Massimo Fornasier
 - 10/2013 - 09/2015: M.Sc. in mathematics at TUM, Munich
@@ -58,6 +59,10 @@ A more detailed CV may be found [here](CV.pdf) (November 2021).
 <br>
 
 ## Teaching {#teach}
+
+### LMU
+
+- 10/2022 - 03/2023: "Mathematical Signal and Image Processing" (Lecture)
 
 ### Catholic University of Eichstaett/Ingolstadt
 
