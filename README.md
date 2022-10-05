@@ -88,12 +88,12 @@ E-mail: maly(at)math(dot)lmu(dot)de
 - J. Maly and R. Saab: *"A simple approach for quantizing neural networks"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2209.03487)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
 - H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
-- S. Dirksen, J. Maly, and H. Rauhut: *"Covariance estimation under one-bit quantization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2104.01280)*
 - J. Maly: *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.05523)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
 
 ### Journal publications
 
+- S. Dirksen, J. Maly, and H. Rauhut: *"Covariance estimation under one-bit quantization"*, 2021, *to appear in Annals of Statistics*, *[arXiv preprint](https://arxiv.org/abs/2104.01280)*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *["Quantitative approximation results for complex-valued neural networks"](https://epubs.siam.org/doi/abs/10.1137/21M1429540)*, 2022, *SIAM Journal on Mathematics of Data Science (SIMODS)*, *([arXiv](https://arxiv.org/abs/2102.13092))*
 - F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *["Structural Sparsity in Multiple Measurements"](https://ieeexplore.ieee.org/document/9661310)*, 2021, *IEEE Transactions on Signal Processing*, *([arXiv](https://arxiv.org/abs/2103.01908))*
 - Z. Kereta, J. Maly, and V. Naumova: *["Computational approaches to non-convex, sparsity-inducing multi-penalty regularization"](https://iopscience.iop.org/article/10.1088/1361-6420/abdd46)*, 2021, *Inverse Problems*, *([arXiv](https://arxiv.org/abs/1908.02503))*
