@@ -104,7 +104,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Book chapters
 
-- J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *[arXiv](https://arxiv.org/abs/2106.06190)*
+- J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *([arXiv](https://arxiv.org/abs/2106.06190))*
 
 ### Conference publications
 
