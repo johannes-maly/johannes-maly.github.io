@@ -26,8 +26,8 @@
   <tr>
     <td style="border:none;">
       <b>Welcome to my page!</b> <br><br>
-      I am an assistant professor working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and, in particular, the influence of quantization on signal reconstruction. <br>
-      I am currently interested in the recovery of multi-structured signals, covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent (and particularly in understanding the influence of coarse quantization).
+      I am an assistant professor working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and the influence of quantization on signal reconstruction. <br>
+      I am currently interested in the recovery of multi-structured signals, covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent (and particularly in theoretically understanding the influence of coarse quantization in all of these fields).
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
@@ -93,7 +93,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Journal publications
 
-- S. Dirksen, J. Maly, and H. Rauhut: *"Covariance estimation under one-bit quantization"*, 2021, *to appear in Annals of Statistics*, *[arXiv preprint](https://arxiv.org/abs/2104.01280)*
+- S. Dirksen, J. Maly, and H. Rauhut: *["Covariance estimation under one-bit quantization"](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Covariance-estimation-under-one-bit-quantization/10.1214/22-AOS2239.short)*, 2022, *Annals of Statistics*, *([arXiv](https://arxiv.org/abs/2104.01280))*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *["Quantitative approximation results for complex-valued neural networks"](https://epubs.siam.org/doi/abs/10.1137/21M1429540)*, 2022, *SIAM Journal on Mathematics of Data Science (SIMODS)*, *([arXiv](https://arxiv.org/abs/2102.13092))*
 - F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *["Structural Sparsity in Multiple Measurements"](https://ieeexplore.ieee.org/document/9661310)*, 2021, *IEEE Transactions on Signal Processing*, *([arXiv](https://arxiv.org/abs/2103.01908))*
 - Z. Kereta, J. Maly, and V. Naumova: *["Computational approaches to non-convex, sparsity-inducing multi-penalty regularization"](https://iopscience.iop.org/article/10.1088/1361-6420/abdd46)*, 2021, *Inverse Problems*, *([arXiv](https://arxiv.org/abs/1908.02503))*
