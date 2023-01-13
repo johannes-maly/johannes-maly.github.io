@@ -85,6 +85,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Preprints
 
+- T. Yang, J. Maly, S. Dirksen, and G. Caire: *"Plug-in Channel Estimation with Dithered Quantized Signals in Spatially Non-Stationary Massive MIMO Systems"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2301.04641)*
 - J. Maly and R. Saab: *"A simple approach for quantizing neural networks"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2209.03487)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
 - H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
