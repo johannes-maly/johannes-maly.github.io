@@ -39,7 +39,7 @@
 
 ## Contact {#cont}
 
-Current address: Mathematisches Institut der Universität München, Theresienstr. 39, D-80333 München
+Current address: Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence, LMU Munich, Akademiestr. 7, D-80799 München
 
 E-mail: maly(at)math(dot)lmu(dot)de
 
@@ -47,7 +47,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ## Short CV {#cv}
 
-- 10/2022 - now: Assistant professor for "Mathematical Data Science" at the chair of *[Mathematical Data Science and Artificial Intelligence](https://www.mathematik.uni-muenchen.de/forschung/arbeitsgruppen/ki/index.html)* at LMU, Munich
+- 10/2022 - now: Assistant professor for "Mathematical Data Science" at the chair of *[Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence](https://www.mathematik.uni-muenchen.de/forschung/arbeitsgruppen/ki/index.html)* at LMU, Munich
 - 11/2020 - 09/2022: PostDoc (akademischer Rat auf Zeit) at the *[Department of Scientific Computing](https://www.ku.de/en/mgf/mathematics/scientific-computing)* at Catholic University of Eichstaett-Ingolstadt
 - 02/2019 - 10/2020: PostDoc at the *[Chair for Mathematics of Data Processing](https://www.mathc.rwth-aachen.de/home/home)* at RWTH Aachen University
 - 01/2016 - 01/2019: PhD at the *[Chair for Applied and Numerical Analysis and Optimization and Data Analysis](https://www-m15.ma.tum.de/Allgemeines/WebHome)* at TUM, Munich, under supervision of Prof. Massimo Fornasier
