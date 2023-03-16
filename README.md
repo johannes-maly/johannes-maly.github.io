@@ -88,12 +88,12 @@ E-mail: maly(at)math(dot)lmu(dot)de
 - T. Yang, J. Maly, S. Dirksen, and G. Caire: *"Plug-in Channel Estimation with Dithered Quantized Signals in Spatially Non-Stationary Massive MIMO Systems"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2301.04641)*
 - J. Maly and R. Saab: *"A simple approach for quantizing neural networks"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2209.03487)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
-- H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
 - J. Maly: *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*, 2021, *[arXiv preprint](https://arxiv.org/abs/2103.05523)*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
 
 ### Journal publications
 
+- H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *to appear in Information and Inference: A Journal of the IMA*, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
 - S. Dirksen, J. Maly, and H. Rauhut: *["Covariance estimation under one-bit quantization"](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Covariance-estimation-under-one-bit-quantization/10.1214/22-AOS2239.short)*, 2022, *Annals of Statistics*, *([arXiv](https://arxiv.org/abs/2104.01280))*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *["Quantitative approximation results for complex-valued neural networks"](https://epubs.siam.org/doi/abs/10.1137/21M1429540)*, 2022, *SIAM Journal on Mathematics of Data Science (SIMODS)*, *([arXiv](https://arxiv.org/abs/2102.13092))*
 - F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *["Structural Sparsity in Multiple Measurements"](https://ieeexplore.ieee.org/document/9661310)*, 2021, *IEEE Transactions on Signal Processing*, *([arXiv](https://arxiv.org/abs/2103.01908))*
