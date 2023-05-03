@@ -92,8 +92,8 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Journal publications
 
-- J. Maly and R. Saab: *"A simple approach for quantizing neural networks"*, 2022, *to appear in Applied and Computational Harmonic Analysis*, *[arXiv preprint](https://arxiv.org/abs/2209.03487)*
-- H.--H. Chou, J. Maly, and H. Rauhut: *"More is Less: Inducing Sparsity via Overparameterization"*, 2021, *to appear in Information and Inference: A Journal of the IMA*, *[arXiv preprint](https://arxiv.org/abs/2112.11027)*
+- J. Maly and R. Saab: *["A simple approach for quantizing neural networks"](https://www.sciencedirect.com/science/article/abs/pii/S1063520323000337)*, 2023, *Applied and Computational Harmonic Analysis*, *([arXiv](https://arxiv.org/abs/2209.03487))*
+- H.--H. Chou, J. Maly, and H. Rauhut: *["More is Less: Inducing Sparsity via Overparameterization"](https://academic.oup.com/imaiai/article-abstract/12/3/iaad012/7133662?redirectedFrom=fulltext)*, 2023, *Information and Inference: A Journal of the IMA*, *([arXiv](https://arxiv.org/abs/2112.11027))*
 - S. Dirksen, J. Maly, and H. Rauhut: *["Covariance estimation under one-bit quantization"](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Covariance-estimation-under-one-bit-quantization/10.1214/22-AOS2239.short)*, 2022, *Annals of Statistics*, *([arXiv](https://arxiv.org/abs/2104.01280))*
 - A. Caragea, D. G. Lee, J. Maly, G. Pfander, and F. Voigtlaender: *["Quantitative approximation results for complex-valued neural networks"](https://epubs.siam.org/doi/abs/10.1137/21M1429540)*, 2022, *SIAM Journal on Mathematics of Data Science (SIMODS)*, *([arXiv](https://arxiv.org/abs/2102.13092))*
 - F. Boßmann, S. Krause-Solberg, J. Maly, and N. Sissouno: *["Structural Sparsity in Multiple Measurements"](https://ieeexplore.ieee.org/document/9661310)*, 2021, *IEEE Transactions on Signal Processing*, *([arXiv](https://arxiv.org/abs/2103.01908))*
