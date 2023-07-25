@@ -86,6 +86,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Preprints
 
+- S. Dirksen, J. Maly: *"Tuning-free one-bit covariance estimation using data-driven dithering"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2307.12613)*
 - C. Kümmerle, J. Maly: *"Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2306.04961)*
 - T. Yang, J. Maly, S. Dirksen, and G. Caire: *"Plug-in Channel Estimation with Dithered Quantized Signals in Spatially Non-Stationary Massive MIMO Systems"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2301.04641)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
