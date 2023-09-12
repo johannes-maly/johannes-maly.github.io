@@ -90,10 +90,10 @@ E-mail: maly(at)math(dot)lmu(dot)de
 - S. Dirksen, J. Maly: *"Tuning-free one-bit covariance estimation using data-driven dithering"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2307.12613)*
 - C. Kümmerle, J. Maly: *"Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2306.04961)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
-- H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *"Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"*, 2020, *[arXiv preprint](https://arxiv.org/abs/2011.13772)*
 
 ### Journal publications
 
+- H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *["Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"](https://www.sciencedirect.com/science/article/abs/pii/S1063520323000829)*, 2023, *Applied and Computational Harmonic Analysis*, *([arXiv](https://arxiv.org/abs/2011.13772))*
 - T. Yang, J. Maly, S. Dirksen, and G. Caire: *"Plug-in Channel Estimation with Dithered Quantized Signals in Spatially Non-Stationary Massive MIMO Systems"*, 2023, *to appear in IEEE Transactions on Communications*, *[arXiv preprint](https://arxiv.org/abs/2301.04641)*
 - J. Maly: *["Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"](https://www.sciencedirect.com/science/article/abs/pii/S1063520323000507)*, 2023, *Applied and Computational Harmonic Analysis*, *([arXiv](https://arxiv.org/abs/2103.05523))*
 - J. Maly and R. Saab: *["A simple approach for quantizing neural networks"](https://www.sciencedirect.com/science/article/abs/pii/S1063520323000337)*, 2023, *Applied and Computational Harmonic Analysis*, *([arXiv](https://arxiv.org/abs/2209.03487))*
