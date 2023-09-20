@@ -60,6 +60,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### LMU
 
+- 10/2023 - 03/2024: "High-dimensional Probability" (Lecture)
 - 04/2023 - 09/2023: "Convex Optimization for Data Science" (Lecture)
 - 10/2022 - 03/2023: "Mathematical Signal and Image Processing" (Lecture)
 
