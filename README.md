@@ -89,7 +89,6 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 - S. Dirksen, J. Maly: *"Tuning-free one-bit covariance estimation using data-driven dithering"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2307.12613)*
-- C. Kümmerle, J. Maly: *"Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2306.04961)*
 - H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
 
 ### Journal publications
@@ -122,21 +121,36 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 - J. Maly and L. Palzer: *["Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2019, *Information and Inference: A Journal of the IMA*, *([arXiv](https://arxiv.org/abs/1805.03486))*
 
-### Book chapters
-
-- J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *([arXiv](https://arxiv.org/abs/2106.06190))*
-
 ### Conference publications
+
+#### 2023
+
+- C. Kümmerle, J. Maly: *"Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"*, 2023, *to appear in NeurIPS 2023*, *[arXiv preprint](https://arxiv.org/abs/2306.04961)*
+
+#### 2021
 
 - S. Dirksen, J. Maly, and H. Rauhut: *["Covariance estimation under one-bit quantization"](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202100063)*, 2021, *Proceedings in Applied Mathematics and Mechanics --- PAMM*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *["Quantized Compressed Sensing by Rectified Linear Units"](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202000015)*, 2021, *Proceedings in Applied Mathematics and Mechanics --- PAMM*
+
+#### 2020
+
 - A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *["Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements"](https://www.researchgate.net/publication/346020497_Polyhedral_Sampling_Structures_for_Phaseless_Spherical_Near-Field_Antenna_Measurements)*, 2020, *42nd Antenna Measurement Techniques Association Symposium (AMTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2020, *iTWIST'20*
+
+#### 2019
+
 - S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *["Robust One-bit Compressed Sensing With Manifold Data"](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"One-Bit Compressed Sensing by Convex Relaxation of the Hamming Distance"*, 2019, *SPARS workshop*
 - Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularisation*, 2019, *SPARS workshop*
+
+#### 2017
+
 - M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning*
 - S. Krause-Solberg and J. Maly: *["A tractable approach for one-bit Compressed Sensing on manifolds"](https://ieeexplore.ieee.org/document/8024465)*, 2017, *International Conference on Sampling Theory and Applications (SampTA)*
+
+### Book chapters
+
+- J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *([arXiv](https://arxiv.org/abs/2106.06190))*
 
 ### Theses
 
