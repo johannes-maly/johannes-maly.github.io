@@ -94,7 +94,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 #### 2024
 
-- S. Dirksen, J. Maly: *"Tuning-free one-bit covariance estimation using data-driven dithering"*, 2024, *to appear in IEEE Transactions on Information Theory*, *[arXiv preprint](https://arxiv.org/abs/2307.12613)*
+- S. Dirksen, J. Maly: *["Tuning-free one-bit covariance estimation using data-driven dithering"](https://ieeexplore.ieee.org/document/10415223)*, 2024, *IEEE Transactions on Information Theory*, *([arXiv](https://arxiv.org/abs/2307.12613))*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *["Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"](https://www.sciencedirect.com/science/article/abs/pii/S1063520323000829)*, 2024, *Applied and Computational Harmonic Analysis*, *([arXiv](https://arxiv.org/abs/2011.13772))*
 - T. Yang, J. Maly, S. Dirksen, and G. Caire: *["Plug-in Channel Estimation with Dithered Quantized Signals in Spatially Non-Stationary Massive MIMO Systems"](https://ieeexplore.ieee.org/document/10258362)*, 2024, *IEEE Transactions on Communications*, *([arXiv](https://arxiv.org/abs/2301.04641))*
 
