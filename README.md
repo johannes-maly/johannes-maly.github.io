@@ -128,7 +128,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 #### 2023
 
-- C. Kümmerle, J. Maly: *"Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"*, 2023, *to appear in NeurIPS 2023*, *[arXiv preprint](https://arxiv.org/abs/2306.04961)*
+- C. Kümmerle, J. Maly: *["Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e33a4d41305fb34316df6f3fa8a0e58c-Abstract-Conference.html)*, 2023, *NeurIPS 2023*, *([arXiv](https://arxiv.org/abs/2306.04961))*
 
 #### 2021
 
