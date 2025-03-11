@@ -60,9 +60,11 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### LMU
 
-- 10/2023 - 03/2024: "High-dimensional Probability" (Lecture)
-- 04/2023 - 09/2023: "Convex Optimization for Data Science" (Lecture)
-- 10/2022 - 03/2023: "Mathematical Signal and Image Processing" (Lecture)
+- 04/2025 - 09/2025: ["Mathematische Einführung in Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2025/meds/index.html) (Lecture)
+- 04/2024 - 09/2024: ["Convex Optimization"](https://www.ai.math.uni-muenchen.de/teaching/sose2024/convex_optimization/index.html) (Lecture)
+- 10/2023 - 03/2024: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise23_24/high-dimensional-probability/index.html) (Lecture)
+- 04/2023 - 09/2023: ["Convex Optimization for Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2023/convex_optimization/index.html) (Lecture)
+- 10/2022 - 03/2023: ["Mathematical Signal and Image Processing"](https://www.ai.math.uni-muenchen.de/teaching/wise22_23/math-image-processing/index.html) (Lecture)
 
 ### Catholic University of Eichstaett/Ingolstadt
 
