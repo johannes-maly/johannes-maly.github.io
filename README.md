@@ -87,14 +87,14 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Preprints
 
+- S. Dirksen, W. Li, and J. Maly: *"Subspace and DOA estimation under coarse quantization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2502.17037)*
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
-- H.--H. Chou, J. Maly, and C. Mayrink Verdun: *"Non-negative Least Squares via Overparametrization"*, 2022, *[arXiv preprint](https://arxiv.org/abs/2207.08437)*
 
 ### Journal publications
 
 #### 2024
 
-- S. Dirksen, J. Maly: *["Tuning-free one-bit covariance estimation using data-driven dithering"](https://ieeexplore.ieee.org/document/10415223)*, 2024, *IEEE Transactions on Information Theory*, *([arXiv](https://arxiv.org/abs/2307.12613))*
+- S. Dirksen and J. Maly: *["Tuning-free one-bit covariance estimation using data-driven dithering"](https://ieeexplore.ieee.org/document/10415223)*, 2024, *IEEE Transactions on Information Theory*, *([arXiv](https://arxiv.org/abs/2307.12613))*
 - H.--H. Chou, C. Gieshoff, J. Maly, and H. Rauhut: *["Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank"](https://www.sciencedirect.com/science/article/abs/pii/S1063520323000829)*, 2024, *Applied and Computational Harmonic Analysis*, *([arXiv](https://arxiv.org/abs/2011.13772))*
 - T. Yang, J. Maly, S. Dirksen, and G. Caire: *["Plug-in Channel Estimation with Dithered Quantized Signals in Spatially Non-Stationary Massive MIMO Systems"](https://ieeexplore.ieee.org/document/10258362)*, 2024, *IEEE Transactions on Communications*, *([arXiv](https://arxiv.org/abs/2301.04641))*
 
@@ -126,9 +126,13 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Conference publications
 
+#### 2025
+
+- H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *"Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"*, 2025, *to appear in International Conference on Artificial Intelligence and Statistics*, *([arXiv](https://arxiv.org/abs/2207.08437))*
+
 #### 2023
 
-- C. Kümmerle, J. Maly: *["Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e33a4d41305fb34316df6f3fa8a0e58c-Abstract-Conference.html)*, 2023, *NeurIPS 2023*, *([arXiv](https://arxiv.org/abs/2306.04961))*
+- C. Kümmerle and J. Maly: *["Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e33a4d41305fb34316df6f3fa8a0e58c-Abstract-Conference.html)*, 2023, *NeurIPS 2023*, *([arXiv](https://arxiv.org/abs/2306.04961))*
 
 #### 2021
 
