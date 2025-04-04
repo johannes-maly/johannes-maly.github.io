@@ -28,6 +28,8 @@
       <b>Welcome to my page!</b> <br><br>
       I am an assistant professor working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and the influence of quantization on signal reconstruction. <br>
       I am currently interested in the recovery of multi-structured signals, covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent (and particularly in theoretically understanding the influence of coarse quantization in all of these fields).
+      <br><br>
+      I am a <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and an <a href="https://mcml.ai/">MCML Associate</a>. 
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
