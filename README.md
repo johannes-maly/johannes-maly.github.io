@@ -27,7 +27,14 @@
     <td style="border:none;">
       <b>Welcome to my page!</b> <br><br>
       I am an assistant professor working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and the influence of quantization on signal reconstruction. <br>
-      I am currently interested in the recovery of multi-structured signals, covariance estimation, approximation properties of neural networks, and the implicit bias of gradient descent (and particularly in theoretically understanding the influence of coarse quantization in all of these fields).
+      I am currently interested in <br><br>
+      <ul>
+        <li>covariance estimation</li> 
+        <li>approximation properties of neural networks</li> 
+        <li>the implicit bias of gradient descent in network training</li> 
+        <li>recovery of multi-structured signals.</li> 
+      </ul>
+      Moreover, I theoretically investigate the influence of coarse quantization in all of these areas.
       <br><br>
       I am a <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and an <a href="https://mcml.ai/">MCML Associate</a>. 
     </td>
@@ -91,6 +98,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Preprints
 
+- V. Fojtik, M. Matveev, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2505.21423)*
 - S. Dirksen, W. Li, and J. Maly: *"Subspace and DOA estimation under coarse quantization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2502.17037)*
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 
