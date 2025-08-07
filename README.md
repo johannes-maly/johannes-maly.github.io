@@ -141,7 +141,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 #### 2025
 
-- H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *"Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"*, 2025, *to appear in International Conference on Artificial Intelligence and Statistics*, *([arXiv](https://arxiv.org/abs/2207.08437))*
+- H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *["Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"](https://proceedings.mlr.press/v258/chou25a.html)*, 2025, *International Conference on Artificial Intelligence and Statistics (AISTATS)*, *([arXiv](https://arxiv.org/abs/2207.08437))*
 
 #### 2023
 
