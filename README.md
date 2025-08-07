@@ -168,8 +168,9 @@ E-mail: maly(at)math(dot)lmu(dot)de
 - M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning*
 - S. Krause-Solberg and J. Maly: *["A tractable approach for one-bit Compressed Sensing on manifolds"](https://ieeexplore.ieee.org/document/8024465)*, 2017, *International Conference on Sampling Theory and Applications (SampTA)*
 
-### Book chapters
+### Book chapters and reviews
 
+- J. Maly: *["Sven-Ake Wegner: Mathematische Einführung in Data Science"](https://rdcu.be/ezDpD)*, 2025, *Mathematische Semesterberichte*
 - J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *([arXiv](https://arxiv.org/abs/2106.06190))*
 
 ### Theses
