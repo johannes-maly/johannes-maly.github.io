@@ -100,10 +100,13 @@ E-mail: maly(at)math(dot)lmu(dot)de
 ### Preprints
 
 - V. Fojtik, M. Matveev, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2505.21423)*
-- S. Dirksen, W. Li, and J. Maly: *"Subspace and DOA estimation under coarse quantization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2502.17037)*
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 
 ### Journal publications
+
+#### 2025
+
+- S. Dirksen, W. Li, and J. Maly: *["Subspace and DOA estimation under coarse quantization"](https://ieeexplore.ieee.org/document/11124317/authors#authors)*, 2025, *([arXiv](https://arxiv.org/abs/2502.17037))*
 
 #### 2024
 
