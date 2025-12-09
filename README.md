@@ -145,7 +145,8 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 #### 2025
 
-- S. Ullah et al.: *["Invited Paper: Circuit and Architecture Design with Emerging Computing Paradigms"](https://ieeexplore.ieee.org/document/11240725)*, 2025, *2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)* 
+- S. Ullah et al.: *["Invited Paper: Circuit and Architecture Design with Emerging Computing Paradigms"](https://ieeexplore.ieee.org/document/11240725)*, 2025, *2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)*
+- S. Dirksen, W. Li, and J. Maly: *"Subspace estimation under coarse quantization"*, 2025, *15th International Conference on Sampling Theory and Applications (SampTA)*
 - H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *["Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"](https://proceedings.mlr.press/v258/chou25a.html)*, 2025, *International Conference on Artificial Intelligence and Statistics (AISTATS)*, *([arXiv](https://arxiv.org/abs/2207.08437))*
 
 #### 2023
