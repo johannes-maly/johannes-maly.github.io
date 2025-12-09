@@ -70,6 +70,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### LMU
 
+- 10/2025 - 03/2026: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise2025_2026/high-dimensional-probability/index.html) (Lecture)
 - 04/2025 - 09/2025: ["Mathematische Einführung in Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2025/meds/index.html) (Lecture)
 - 04/2024 - 09/2024: ["Convex Optimization"](https://www.ai.math.uni-muenchen.de/teaching/sose2024/convex_optimization/index.html) (Lecture)
 - 10/2023 - 03/2024: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise23_24/high-dimensional-probability/index.html) (Lecture)
@@ -144,6 +145,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 #### 2025
 
+- S. Ullah et al.: *["Invited Paper: Circuit and Architecture Design with Emerging Computing Paradigms"](https://ieeexplore.ieee.org/document/11240725)*, 2025, *2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)* 
 - H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *["Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"](https://proceedings.mlr.press/v258/chou25a.html)*, 2025, *International Conference on Artificial Intelligence and Statistics (AISTATS)*, *([arXiv](https://arxiv.org/abs/2207.08437))*
 
 #### 2023
