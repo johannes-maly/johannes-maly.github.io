@@ -100,6 +100,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Preprints
 
+- J. Maly and A. Veselovska: *"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.08669)*
 - V. Fojtik, M. Matveev, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2505.21423)*
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 
