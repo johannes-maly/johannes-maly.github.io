@@ -36,7 +36,7 @@
         <li>model reduction and inverse problems.</li> 
       </ul>
       <br><br>
-      I am a <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and an <a href="https://mcml.ai/">Collaborating PI of MCML</a>. 
+      I am <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and <a href="https://mcml.ai/">Collaborating PI of MCML</a>. 
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
