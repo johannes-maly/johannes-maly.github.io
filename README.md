@@ -31,13 +31,12 @@
       <br><br>
       <ul>
         <li>covariance estimation</li> 
-        <li>approximation properties of neural networks</li> 
+        <li>coarse quantization</li> 
         <li>the implicit bias of gradient descent in network training</li> 
-        <li>recovery of multi-structured signals.</li> 
+        <li>model reduction and inverse problems.</li> 
       </ul>
-      Moreover, I theoretically investigate the influence of coarse quantization in all of these areas.
       <br><br>
-      I am a <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and an <a href="https://mcml.ai/">MCML Associate</a>. 
+      I am a <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and an <a href="https://mcml.ai/">Collaborating PI of MCML</a>. 
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
