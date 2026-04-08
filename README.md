@@ -26,7 +26,7 @@
   <tr>
     <td style="border:none;">
       <b>Welcome to my page!</b> <br><br>
-      I am an assistant professor working on mathematics of data science and machine learning. My former research has been focused on compressed sensing and the influence of quantization on signal reconstruction.
+      I am an assistant professor working on the mathematics of data science and machine learning. My former research has been focused on compressed sensing and the influence of quantization on signal reconstruction.
       I am currently interested in 
       <br><br>
       <ul>
