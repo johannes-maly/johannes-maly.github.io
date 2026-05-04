@@ -101,7 +101,6 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 - J. Maly, K. Neuner, and S. Vadia: *"Computing the SVD efficiently with photonic chips"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.18950)*
 - J. Maly and A. Veselovska: *"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.08669)*
-- V. Fojtik, M. Matveev, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2025, *[arXiv preprint](https://arxiv.org/abs/2505.21423)*
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 
 ### Journal publications
@@ -144,6 +143,10 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 ### Conference publications
 
+#### 2026
+
+- M. Matveev, V. Fojtik, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2026, *to appear in International Conference on Machine Learning (ICML)*, *([arXiv](https://arxiv.org/abs/2505.21423))*
+
 #### 2025
 
 - S. Ullah et al.: *["Invited Paper: Circuit and Architecture Design with Emerging Computing Paradigms"](https://ieeexplore.ieee.org/document/11240725)*, 2025, *2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)*
@@ -152,7 +155,7 @@ E-mail: maly(at)math(dot)lmu(dot)de
 
 #### 2023
 
-- C. Kümmerle and J. Maly: *["Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e33a4d41305fb34316df6f3fa8a0e58c-Abstract-Conference.html)*, 2023, *NeurIPS 2023*, *([arXiv](https://arxiv.org/abs/2306.04961))*
+- C. Kümmerle and J. Maly: *["Recovering Simultaneously Structured Data via Non-Convex Iteratively Reweighted Least Squares"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e33a4d41305fb34316df6f3fa8a0e58c-Abstract-Conference.html)*, 2023, *Neural Information Processing Systems (NeurIPS)*, *([arXiv](https://arxiv.org/abs/2306.04961))*
 
 #### 2021
 
