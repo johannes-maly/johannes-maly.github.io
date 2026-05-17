@@ -1,0 +1,55 @@
+
+<table>
+  <tr>
+    <td style="border:none">
+      <a href="#cont"><h3>Contact</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#cv"><h3>CV</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#teach"><h3>Teaching</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#publ"><h3>Publications</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#code"><h3>Code</h3></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<br/>
+
+
+## Teaching {#teach}
+
+### LMU
+
+- 10/2025 - 03/2026: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise2025_2026/high-dimensional-probability/index.html) (Lecture)
+- 04/2025 - 09/2025: ["Mathematische Einführung in Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2025/meds/index.html) (Lecture)
+- 04/2024 - 09/2024: ["Convex Optimization"](https://www.ai.math.uni-muenchen.de/teaching/sose2024/convex_optimization/index.html) (Lecture)
+- 10/2023 - 03/2024: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise23_24/high-dimensional-probability/index.html) (Lecture)
+- 04/2023 - 09/2023: ["Convex Optimization for Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2023/convex_optimization/index.html) (Lecture)
+- 10/2022 - 03/2023: ["Mathematical Signal and Image Processing"](https://www.ai.math.uni-muenchen.de/teaching/wise22_23/math-image-processing/index.html) (Lecture)
+
+### Catholic University of Eichstaett/Ingolstadt
+
+- 04/2022 - 09/2022: "Introduction to Scientific Computing" (Lecture+Exercises)
+- 10/2021 - 03/2022: "Mathematics for Economics" (Lecture)
+- 04/2021 - 09/2021: "Introduction to Scientific Computing" (Lecture+Exercises)
+- 11/2020 - 03/2021: "Introduction to Numerical Analysis" (Lecture+Exercises)
+
+### RWTH Aachen University
+
+- 04/2020 - 09/2020: Teaching assistant for "Optimization"
+- 10/2019 - 03/2020: Teaching assistant for "Repetitorium - Higher Mathematics II"
+- 04/2019 - 09/2019: Teaching assistant for "Higher Mathematics II"
+
+### Technical University of Munich
+
+- 04/2018 - 09/2018: Teaching assistant for "Foundations of Data Analysis"
+
+<br>
