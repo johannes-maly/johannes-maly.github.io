@@ -26,8 +26,8 @@
 
 My group for mathematical data science is supported by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/de) through the following projects:
 
-- NWO-DFG Projekt: Nichtlineare Kovarianzschätzung
-- GRK 3081:  Maschinelles Lernen und Kontrolltheorie: Exploration von Synergien zum beidseitigen Nutzen ([METEOR](https://rtg-meteor.de/)) 
+- NWO-DFG project: Nonlinear covariance estimation
+- GRK 3081:  Machine Learning and Control Theory: Exploring Synergies, Complementarities, and Mutual Benefits ([METEOR](https://rtg-meteor.de/)) 
 
 ## Group members
 
