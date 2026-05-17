@@ -7,7 +7,7 @@
       <a href="#cv"><h3>CV</h3></a>
     </td>
     <td style="border:none">
-      <a href="#teach"><h3>Teaching</h3></a>
+      <a href="Teaching/teaching"><h3>Teaching</h3></a>
     </td>
     <td style="border:none">
       <a href="#publ"><h3>Publications</h3></a>
