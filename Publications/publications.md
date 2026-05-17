@@ -25,13 +25,15 @@
 
 ## Publications {#publ}
 
-### Preprints
+Below you find a list of all my publications grouped as [preprints](#preprints), [journal publications](#journal), [conference publications](#conference), and [others](#others).
+
+### Preprints {#preprints}
 
 - J. Maly, K. Neuner, and S. Vadia: *"Computing the SVD efficiently with photonic chips"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.18950)*
 - J. Maly and A. Veselovska: *"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.08669)*
 - H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 
-### Journal publications
+### Journal publications {#journal}
 
 #### 2025
 
@@ -69,7 +71,7 @@
 
 - J. Maly and L. Palzer: *["Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2019, *Information and Inference: A Journal of the IMA*, *([arXiv](https://arxiv.org/abs/1805.03486))*
 
-### Conference publications
+### Conference publications {#conference}
 
 #### 2026
 
@@ -106,7 +108,7 @@
 - M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning*
 - S. Krause-Solberg and J. Maly: *["A tractable approach for one-bit Compressed Sensing on manifolds"](https://ieeexplore.ieee.org/document/8024465)*, 2017, *International Conference on Sampling Theory and Applications (SampTA)*
 
-### Book chapters and reviews
+### Book chapters and reviews {#others}
 
 - J. Maly: *["Sven-Ake Wegner: Mathematische Einführung in Data Science"](https://rdcu.be/ezDpD)*, 2025, *Mathematische Semesterberichte*
 - J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *([arXiv](https://arxiv.org/abs/2106.06190))*
