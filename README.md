@@ -26,7 +26,7 @@
   <tr>
     <td style="border:none;">
       <b>Welcome to my page!</b> <br><br>
-      I am an assistant professor working on the mathematics of data science and machine learning. My former research has been focused on compressed sensing and the influence of quantization on signal reconstruction.
+      I am an <a href="https://www.math.lmu.de/math4ai/en/members/contact-page/johannes-maly-fc93da16.html">assistant professor at LMU Munich</a> working on the mathematics of data science and machine learning. My former research has been focusing on compressed sensing and the influence of quantization on signal reconstruction.
       I am currently interested in 
       <br><br>
       <ul>
@@ -36,7 +36,7 @@
         <li>model reduction and inverse problems.</li> 
       </ul>
       <br><br>
-      I am <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and <a href="https://mcml.ai/">Collaborating PI of MCML</a>. 
+      I am <a href="https://zuseschoolrelai.de/">relAI Fellow</a> and <a href="https://mcml.ai/">Collaborating PI of MCML</a>. You can find the members of my group <a href="https://johannes-maly.github.io/Group/group">here</a>.
     </td>
     <td style="float: right;width: 60%;border:none">
       <img src="Photo2_JohannesMaly.jpg">
