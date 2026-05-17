@@ -22,9 +22,7 @@
 
 <br/>
 
-## Funding
-
-My group for mathematical data science is supported by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/de) through the following projects:
+My group is supported by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/de) through the following projects:
 
 - NWO-DFG project: Nonlinear covariance estimation
 - GRK 3081:  Machine Learning and Control Theory: Exploring Synergies, Complementarities, and Mutual Benefits ([METEOR](https://rtg-meteor.de/)) 
