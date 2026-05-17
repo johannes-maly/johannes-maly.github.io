@@ -114,9 +114,3 @@
 
 <br>
 
-## Code
-
-- [Supplementary material](AdaptiveDither_CODE.zip) for *"Tuning-free one-bit covariance estimation using data-driven dithering"*
-- [Supplementary material](S3-PCA-Toolbox.zip) for *"Robust Sensing of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition"*
-- [Supplementary material](ATLAS_Toolbox.zip) for *"Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"*
-- [Supplementary material](OMSpaperCODE.zip) for *"On Recovery Guarantees for One-Bit Compressed Sensing on Manifolds"*
