@@ -46,10 +46,9 @@ Below you find a list of all my publications grouped into:
 
 ### Preprints {#preprints}
 
-
-- [ ] J. Maly, K. Neuner, and S. Vadia: *"Computing the SVD efficiently with photonic chips"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.18950)*
-- [ ] J. Maly and A. Veselovska: *"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.08669)*
-- [ ] H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
+- J. Maly, K. Neuner, and S. Vadia: *"Computing the SVD efficiently with photonic chips"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.18950)*
+- J. Maly and A. Veselovska: *"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.08669)*
+- H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
 
 ### Journal publications {#journal}
 
