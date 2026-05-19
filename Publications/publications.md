@@ -100,10 +100,12 @@ Below you find a list of all my publications grouped into:
 #### 2017
 
 <ul style="list-style-type: none !important;">
-  <li><strong>[C02]</strong> M. Fornasier, J. Maly, and V. Naumova: <em><a href="http://opt-ml.org/papers.html">"Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"</a></em>, 2017, <em>NIPS Workshop on Optimization for Machine Learning</em></li>
-  <li><strong>[C01]</strong> S. Krause-Solberg and J. Maly: <em><a href="https://ieeexplore.ieee.org/document/8024465">"A tractable approach for one-bit Compressed Sensing on manifolds"</a></em>, 2017, <em>International Conference on Sampling Theory and Applications (SampTA)</em></li>
   <li style="list-style-type: none !important; position: relative; margin-left: 0;">
-    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;"><strong>[C01]</strong></span>
+    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[C02]</span>
+    M. Fornasier, J. Maly, and V. Naumova: <em><a href="http://opt-ml.org/papers.html">"Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"</a></em>, 2017, <em>NIPS Workshop on Optimization for Machine Learning</em>
+    </li>
+  <li style="list-style-type: none !important; position: relative; margin-left: 0;">
+    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[C01]</span>
     S. Krause-Solberg and J. Maly: <em><a href="https://ieeexplore.ieee.org/document/8024465">"A tractable approach for one-bit Compressed Sensing on manifolds"</a></em>, 2017, <em>International Conference on Sampling Theory and Applications (SampTA)</em>
     </li>
 </ul>
