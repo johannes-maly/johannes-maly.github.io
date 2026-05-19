@@ -44,7 +44,7 @@ Below you find a list of all my publications grouped into:
   </tr>
 </table>
 
-<ul style="list-style-type: none !important; padding-left: 0;">
+<ul style="list-style-type: none !important;">
   <li>First item</li>
   <li>Second item</li>
   <li>Third item</li>
