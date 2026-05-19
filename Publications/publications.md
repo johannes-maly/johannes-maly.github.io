@@ -90,14 +90,24 @@ Below you find a list of all my publications grouped into:
 
 #### 2020
 
-- M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"](https://authors.elsevier.com/a/1btjM_2C8gesk-)*, 2020, *Applied Mathematics and Computation*, *([arXiv](https://arxiv.org/abs/1801.06240))*
+<ul style="list-style-type: none !important;">
+  <li style="list-style-type: none !important; position: relative; margin-left: 0;">
+    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[J02]</span>
+    M. Fornasier, J. Maly and V. Naumova: <em><a href="https://authors.elsevier.com/a/1btjM_2C8gesk-">"Robust Recovery of Low-Rank Matrices with Non-Orthogonal Sparse Decomposition from Incomplete Measurements"</a></em>, 2020, <em>Applied Mathematics and Computation</em>, <em>(<a href="https://arxiv.org/abs/1801.06240">arXiv</a>)</em></li>
+    </li>
+  <li style="list-style-type: none !important; position: relative; margin-left: 0;">
+    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[C04]</span>
+    A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: <em><a href="https://www.researchgate.net/publication/346020497_Polyhedral_Sampling_Structures_for_Phaseless_Spherical_Near-Field_Antenna_Measurements">"Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements"</a></em>, 2020, <em>42nd Antenna Measurement Techniques Association Symposium (AMTA)</em>
+    </li>
+</ul>
+
 
 #### 2019
 
 <ul style="list-style-type: none !important;">
   <li style="list-style-type: none !important; position: relative; margin-left: 0;">
     <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[J01]</span>
-    J. Maly and L. Palzer: <em><a href="https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF">"Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"</a></em>, 2019, <em>Information and Inference: A Journal of the IMA</em>, <em>(<a href="https://arxiv.org/abs/1805.03486">arXiv</a>)</em></li>
+    J. Maly and L. Palzer: <em><a href="https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF">"Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"</a></em>, 2019, <em>Information and Inference: A Journal of the IMA</em>, <em>(<a href="https://arxiv.org/abs/1805.03486">arXiv</a>)</em>
     </li>
   <li style="list-style-type: none !important; position: relative; margin-left: 0;">
     <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[C03]</span>
@@ -131,11 +141,6 @@ Below you find a list of all my publications grouped into:
 
 - S. Dirksen, J. Maly, and H. Rauhut: *["Covariance estimation under one-bit quantization"](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202100063)*, 2021, *Proceedings in Applied Mathematics and Mechanics --- PAMM*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *["Quantized Compressed Sensing by Rectified Linear Units"](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202000015)*, 2021, *Proceedings in Applied Mathematics and Mechanics --- PAMM*
-
-#### 2020
-
-- A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *["Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements"](https://www.researchgate.net/publication/346020497_Polyhedral_Sampling_Structures_for_Phaseless_Spherical_Near-Field_Antenna_Measurements)*, 2020, *42nd Antenna Measurement Techniques Association Symposium (AMTA)*
-- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2020, *iTWIST'20*
 
 
 
