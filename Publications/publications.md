@@ -94,8 +94,16 @@ Below you find a list of all my publications grouped into:
 
 #### 2019
 
-- J. Maly and L. Palzer: *["Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2019, *Information and Inference: A Journal of the IMA*, *([arXiv](https://arxiv.org/abs/1805.03486))*
-- S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *["Robust One-bit Compressed Sensing With Manifold Data"](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
+<ul style="list-style-type: none !important;">
+  <li style="list-style-type: none !important; position: relative; margin-left: 0;">
+    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[J01]</span>
+    J. Maly and L. Palzer: <em><a href="https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF">"Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"</a></em>, 2019, <em>Information and Inference: A Journal of the IMA</em>, <em>(<a href="https://arxiv.org/abs/1805.03486">arXiv</a>)</em></li>
+    </li>
+  <li style="list-style-type: none !important; position: relative; margin-left: 0;">
+    <span style="position: absolute; left: -3.5em; font-weight: bold; color: #159957;">[C03]</span>
+    S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: <em><a href="https://sampta2019.sciencesconf.org/267528/document">"Robust One-bit Compressed Sensing With Manifold Data"</a></em>, 2019, <em>International Conference on Sampling Theory and Applications (SampTA)</em>
+    </li>
+</ul>
 
 #### 2017
 
