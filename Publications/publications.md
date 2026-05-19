@@ -33,10 +33,7 @@ Below you find a list of all my publications grouped into:
       <a href="#preprints">Preprints</a>
     </td>
     <td>
-      <a href="#journal">Journal publications</a>
-    </td>
-    <td>
-      <a href="#conference">Conference publications</a>
+      <a href="#journal">Journal and conference publications</a>
     </td>
     <td>
       <a href="#others">Other publications</a>
@@ -44,19 +41,15 @@ Below you find a list of all my publications grouped into:
   </tr>
 </table>
 
-<ul style="list-style-type: none !important;">
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-</ul>
-
 ### Preprints {#preprints}
 
-- J. Maly, K. Neuner, and S. Vadia: *"Computing the SVD efficiently with photonic chips"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.18950)*
-- J. Maly and A. Veselovska: *"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"*, 2026, *[arXiv preprint](https://arxiv.org/abs/2602.08669)*
-- H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2023, *[arXiv preprint](https://arxiv.org/abs/2308.04921)*
+<ul style="list-style-type: none !important;">
+  <li>J. Maly, K. Neuner, and S. Vadia: <em>"Computing the SVD efficiently with photonic chips"</em>, 2026, <em><a href="https://arxiv.org/abs/2602.18950">arXiv preprint</a></em></li>
+  <li>J. Maly and A. Veselovska: <em>"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"</em>, 2026, <em><a href="https://arxiv.org/abs/2602.08669">arXiv preprint</a></em></li>
+  <li>H.--H. Chou, J. Maly, and D. Stöger: <em>"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"</em>, 2023, <em><a href="https://arxiv.org/abs/2308.04921">arXiv preprint</a></em></li>
+</ul>
 
-### Journal publications {#journal}
+### Journal [Jxx] and conference [Cxx] publications {#journal}
 
 #### 2025
 
