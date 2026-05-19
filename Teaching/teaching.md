@@ -27,12 +27,12 @@
 
 ### LMU
 
-- 10/2025 - 03/2026: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise2025_2026/high-dimensional-probability/index.html) (Lecture)
-- 04/2025 - 09/2025: ["Mathematische Einführung in Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2025/meds/index.html) (Lecture)
-- 04/2024 - 09/2024: ["Convex Optimization"](https://www.ai.math.uni-muenchen.de/teaching/sose2024/convex_optimization/index.html) (Lecture)
-- 10/2023 - 03/2024: ["High-dimensional Probability"](https://www.ai.math.uni-muenchen.de/teaching/wise23_24/high-dimensional-probability/index.html) (Lecture)
-- 04/2023 - 09/2023: ["Convex Optimization for Data Science"](https://www.ai.math.uni-muenchen.de/teaching/sose2023/convex_optimization/index.html) (Lecture)
-- 10/2022 - 03/2023: ["Mathematical Signal and Image Processing"](https://www.ai.math.uni-muenchen.de/teaching/wise22_23/math-image-processing/index.html) (Lecture)
+- 10/2025 - 03/2026: ["High-dimensional Probability"](https://www.math.lmu.de/math4ai/en/teaching/wise-2025-2026/high-dimensional-probability/) (Lecture)
+- 04/2025 - 09/2025: ["Mathematische Einführung in Data Science"](https://www.math.lmu.de/math4ai/en/teaching/sose-2025/mathematische-einfuehrung-in-data-science-sose-2025/) (Lecture)
+- 04/2024 - 09/2024: ["Convex Optimization"](https://www.math.lmu.de/math4ai/en/teaching/) (Lecture)
+- 10/2023 - 03/2024: ["High-dimensional Probability"](https://www.math.lmu.de/math4ai/en/teaching/) (Lecture)
+- 04/2023 - 09/2023: ["Convex Optimization for Data Science"](https://www.math.lmu.de/math4ai/en/teaching/) (Lecture)
+- 10/2022 - 03/2023: ["Mathematical Signal and Image Processing"](https://www.math.lmu.de/math4ai/en/teaching/) (Lecture)
 
 ### Catholic University of Eichstaett/Ingolstadt
 
