@@ -25,22 +25,6 @@
 
 ## Publications {#publ}
 
-Below you find a list of all my publications grouped into:
-
-<table>
-  <tr>
-    <td>
-      <a href="#preprints">Preprints</a>
-    </td>
-    <td>
-      <a href="#journal">Journal and conference publications</a>
-    </td>
-    <td>
-      <a href="#others">Other publications</a>
-    </td>
-  </tr>
-</table>
-
 ### Preprints {#preprints}
 
 <ul>
