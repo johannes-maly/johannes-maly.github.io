@@ -49,7 +49,7 @@ Below you find a list of all my publications grouped into:
   <li>H.--H. Chou, J. Maly, and D. Stöger: <em>"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"</em>, 2023, <em><a href="https://arxiv.org/abs/2308.04921">arXiv preprint</a></em></li>
 </ul>
 
-### Journal [Jxx] and conference [Cxx] publications {#journal}
+### Journal and conference publications {#journal}
 
 #### 2026
 
