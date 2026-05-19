@@ -51,8 +51,17 @@ Below you find a list of all my publications grouped into:
 
 ### Journal [Jxx] and conference [Cxx] publications {#journal}
 
+#### 2026
+
+<ul style="list-style-type: none !important;">
+  <li>M. Matveev, V. Fojtik, H.--H. Chou, G. Kutyniok, and J. Maly: <em>"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"</em>, 2026, <em>to appear in International Conference on Machine Learning (ICML)</em>, <em>(<a href="https://arxiv.org/abs/2505.21423">arXiv</a>)</em></li>
+</ul>
+
 #### 2025
 
+- S. Ullah et al.: *["Invited Paper: Circuit and Architecture Design with Emerging Computing Paradigms"](https://ieeexplore.ieee.org/document/11240725)*, 2025, *2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)*
+- S. Dirksen, W. Li, and J. Maly: *"Subspace estimation under coarse quantization"*, 2025, *15th International Conference on Sampling Theory and Applications (SampTA)*
+- H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *["Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"](https://proceedings.mlr.press/v258/chou25a.html)*, 2025, *International Conference on Artificial Intelligence and Statistics (AISTATS)*, *([arXiv](https://arxiv.org/abs/2207.08437))*
 - S. Dirksen, W. Li, and J. Maly: *["Subspace and DOA estimation under coarse quantization"](https://ieeexplore.ieee.org/document/11124317/authors#authors)*, 2025, *([arXiv](https://arxiv.org/abs/2502.17037))*
 
 #### 2024
@@ -86,18 +95,19 @@ Below you find a list of all my publications grouped into:
 #### 2019
 
 - J. Maly and L. Palzer: *["Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements"](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaz004/5424056?redirectedFrom=PDF)*, 2019, *Information and Inference: A Journal of the IMA*, *([arXiv](https://arxiv.org/abs/1805.03486))*
+- S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *["Robust One-bit Compressed Sensing With Manifold Data"](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
+
+#### 2017
+
+<ul style="list-style-type: none !important;">
+  <li><strong>[C02]</strong> M. Fornasier, J. Maly, and V. Naumova: <em><a href="http://opt-ml.org/papers.html">"Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"</a></em>, 2017, <em>NIPS Workshop on Optimization for Machine Learning</em></li>
+  <li><strong>[C01]</strong> S. Krause-Solberg and J. Maly: <em><a href="https://ieeexplore.ieee.org/document/8024465">"A tractable approach for one-bit Compressed Sensing on manifolds"</a></em>, 2017, <em>International Conference on Sampling Theory and Applications (SampTA)</em></li>
+</ul>
+
 
 ### Conference publications {#conference}
 
-#### 2026
 
-- M. Matveev, V. Fojtik, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2026, *to appear in International Conference on Machine Learning (ICML)*, *([arXiv](https://arxiv.org/abs/2505.21423))*
-
-#### 2025
-
-- S. Ullah et al.: *["Invited Paper: Circuit and Architecture Design with Emerging Computing Paradigms"](https://ieeexplore.ieee.org/document/11240725)*, 2025, *2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)*
-- S. Dirksen, W. Li, and J. Maly: *"Subspace estimation under coarse quantization"*, 2025, *15th International Conference on Sampling Theory and Applications (SampTA)*
-- H.--H. Chou, J. Maly, C. Mayrink Verdun, B. Freitas Paulo da Costa, and H. Mirandola: *["Get rid of your constraints and reparametrize: A study in NNLS and implicit bias"](https://proceedings.mlr.press/v258/chou25a.html)*, 2025, *International Conference on Artificial Intelligence and Statistics (AISTATS)*, *([arXiv](https://arxiv.org/abs/2207.08437))*
 
 #### 2023
 
@@ -113,16 +123,7 @@ Below you find a list of all my publications grouped into:
 - A. Guth, C. Culotta-López, J. Maly, H. Rauhut, and D. Heberling: *["Polyhedral Sampling Structures for Phaseless Spherical Near-Field Antenna Measurements"](https://www.researchgate.net/publication/346020497_Polyhedral_Sampling_Structures_for_Phaseless_Spherical_Near-Field_Antenna_Measurements)*, 2020, *42nd Antenna Measurement Techniques Association Symposium (AMTA)*
 - H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"Quantized Compressed Sensing by Rectified Linear Units"*, 2020, *iTWIST'20*
 
-#### 2019
 
-- S. Dirksen, M. Iwen, S. Krause-Solberg, and J. Maly: *["Robust One-bit Compressed Sensing With Manifold Data"](https://sampta2019.sciencesconf.org/267528/document)*, 2019, *International Conference on Sampling Theory and Applications (SampTA)*
-- H. C. Jung, J. Maly, L. Palzer, and A. Stollenwerk: *"One-Bit Compressed Sensing by Convex Relaxation of the Hamming Distance"*, 2019, *SPARS workshop*
-- Z. Kereta, J. Maly, and V. Naumova: *Linear convergence and support recovery for non-convex multi-penalty regularisation*, 2019, *SPARS workshop*
-
-#### 2017
-
-- M. Fornasier, J. Maly and V. Naumova: *["Robust Recovery of Low-Rank Matrices using Multi-Penalty Regularization"](http://opt-ml.org/papers.html)*, 2017, *NIPS workshop Optimization for Machine Learning*
-- S. Krause-Solberg and J. Maly: *["A tractable approach for one-bit Compressed Sensing on manifolds"](https://ieeexplore.ieee.org/document/8024465)*, 2017, *International Conference on Sampling Theory and Applications (SampTA)*
 
 ### Book chapters and reviews {#others}
 
