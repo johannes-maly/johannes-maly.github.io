@@ -32,6 +32,7 @@ My group is supported by the [Deutsche Forschungsgemeinschaft (DFG)](https://www
 ### PhD students
 
 - Dušan Oberta (starting August 2026)
+- Jinna Qian (starting October 2026)
 
 ### Student researchers
 
