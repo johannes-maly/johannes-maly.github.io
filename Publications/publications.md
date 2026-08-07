@@ -30,16 +30,14 @@
 <ul>
   <li>J. Maly, K. Neuner, and S. Vadia: <em>"Efficient computation of the singular value decomposition with linear photonic circuits"</em>, 2026, <em><a href="https://arxiv.org/abs/2602.18950">arXiv preprint</a></em></li>
   <li>J. Maly and A. Veselovska: <em>"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"</em>, 2026, <em><a href="https://arxiv.org/abs/2602.08669">arXiv preprint</a></em></li>
-  <li>H.--H. Chou, J. Maly, and D. Stöger: <em>"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"</em>, 2023, <em><a href="https://arxiv.org/abs/2308.04921">arXiv preprint</a></em></li>
 </ul>
 
 ### Journal and conference publications {#journal}
 
 #### 2026
 
-<ul>
-  <li>M. Matveev, V. Fojtik, H.--H. Chou, G. Kutyniok, and J. Maly: <em>"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"</em>, 2026, <em>to appear in International Conference on Machine Learning (ICML)</em>, <em>(<a href="https://arxiv.org/abs/2505.21423">arXiv</a>)</em></li>
-</ul>
+- H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2026, *to appear in Advances in Computational Mathematics*, *([arXiv](https://arxiv.org/abs/2308.04921))*
+- M. Matveev, V. Fojtik, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2026, *to appear in International Conference on Machine Learning (ICML)*, *([arXiv](https://arxiv.org/abs/2505.21423))*
 
 #### 2025
 
