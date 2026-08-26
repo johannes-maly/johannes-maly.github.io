@@ -37,7 +37,7 @@
 
 #### 2026
 
-- H.--H. Chou, J. Maly, and D. Stöger: *"How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"*, 2026, *to appear in Advances in Computational Mathematics*, *([arXiv](https://arxiv.org/abs/2308.04921))*
+- H.--H. Chou, J. Maly, and D. Stöger: *["How to induce regularization in generalized linear models: A guide to reparametrizing gradient flow"](https://link.springer.com/article/10.1007/s10444-026-10350-3)*, 2026, *Advances in Computational Mathematics*, *([arXiv](https://arxiv.org/abs/2308.04921))*
 - M. Matveev, V. Fojtik, H.--H. Chou, G. Kutyniok, and J. Maly: *"Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization"*, 2026, *to appear in International Conference on Machine Learning (ICML)*, *([arXiv](https://arxiv.org/abs/2505.21423))*
 
 #### 2025
