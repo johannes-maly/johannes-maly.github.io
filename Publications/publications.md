@@ -94,13 +94,10 @@
 
 
 
-### Book chapters and reviews {#others}
+### Monographs, book chapters, and reviews {#others}
 
 - J. Maly: *["Sven-Ake Wegner: Mathematische Einführung in Data Science"](https://rdcu.be/ezDpD)*, 2025, *Mathematische Semesterberichte*
 - J. Maly, T. Yang, S. Dirksen, H. Rauhut, and G. Caire: *"New challenges in covariance estimation: multiple structures and coarse quantization" in [Compressed Sensing in Information Processing](https://link.springer.com/book/10.1007/978-3-031-09745-4)*, 2021, Springer, *([arXiv](https://arxiv.org/abs/2106.06190))*
-
-### Theses
-
 - J. Maly: *["Recovery Algorithms for Quantized Compressed Sensing"](https://mediatum.ub.tum.de/1471689)*, 2019, Phd thesis
 - J. Maly: *"Weighted Energy-Dissipation Approximation for an Optimal Control Problem"*, 2015, Master's thesis
 
