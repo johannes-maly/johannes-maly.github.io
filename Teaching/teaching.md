@@ -27,6 +27,7 @@
 
 ### LMU
 
+- 10/2026 - 03/2027: ["Mathematische Grundlagen der Data Sciences"](https://www.math.lmu.de/math4ai/en/teaching/wise-2026-2027/mathematische-grundlagen-der-data-sciences-wise-2026-2027/) (Lecture)
 - 10/2025 - 03/2026: ["High-dimensional Probability"](https://www.math.lmu.de/math4ai/en/teaching/wise-2025-2026/high-dimensional-probability/) (Lecture)
 - 04/2025 - 09/2025: ["Mathematische Einführung in Data Science"](https://www.math.lmu.de/math4ai/en/teaching/sose-2025/mathematische-einfuehrung-in-data-science-sose-2025/) (Lecture)
 - 04/2024 - 09/2024: ["Convex Optimization"](https://www.math.lmu.de/math4ai/en/teaching/) (Lecture)
