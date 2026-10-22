@@ -32,7 +32,7 @@ My group is supported by the [Deutsche Forschungsgemeinschaft (DFG)](https://www
 ### PhD students
 
 - [Dušan Oberta](https://www.math.lmu.de/math4ai/en/members/contact-page/dusan-oberta-caad91ea.html)
-- Jinna Qian (starting October 2026)
+- [Jinna Qian](https://www.math.lmu.de/math4ai/en/members/contact-page/jinna-qian-8ebe120c.html)
 
 ### Student researchers
 
