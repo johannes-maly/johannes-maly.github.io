@@ -28,6 +28,7 @@
 ### Preprints {#preprints}
 
 <ul>
+  <li>E. Araya, G. Kutyniok, W. Li, J. Maly, and M. Singh: <em>"Formalizing the Intrinsic Dimension of Objective Landscapes by a Generalized Notion of Co-dimension"</em>, 2026, <em><a href="https://arxiv.org/abs/2610.39674">arXiv preprint</a></em></li>
   <li>H.--H. Chou, J. Maly, and H. Rauhut: <em>"Compressive Sensing - Introduction and Relations to Deep Learning"</em>, 2026, <em><a href="https://arxiv.org/abs/2608.24211">arXiv preprint</a></em></li>
   <li>J. Maly, K. Neuner, and S. Vadia: <em>"Efficient computation of the singular value decomposition with linear photonic circuits"</em>, 2026, <em><a href="https://arxiv.org/abs/2602.18950">arXiv preprint</a></em></li>
   <li>J. Maly and A. Veselovska: <em>"Reliable one-bit quantization of bandlimited graph data via single-shot noise shaping"</em>, 2026, <em><a href="https://arxiv.org/abs/2602.08669">arXiv preprint</a></em></li>
