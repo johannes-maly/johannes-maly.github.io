@@ -50,7 +50,7 @@
 
 Current address: Chair for Mathematical Foundations of Artificial Intelligence, LMU Munich, Akademiestr. 7, D-80799 München
 
-E-mail: maly(at)math(dot)lmu(dot)de
+E-mail: maly@math.lmu.de
 
 <br>
 
